@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mockito_ssweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mockito_ssweb.war">
+      <element id="artifact" artifact-name="mockito_ssweb:war exploded" />
+    </root>
+  </artifact>
+</component>
